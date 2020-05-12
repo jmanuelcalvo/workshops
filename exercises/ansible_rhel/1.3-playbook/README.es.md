@@ -4,14 +4,14 @@
 
 ## Tabla de contenidos
 
-- [Objetivos](#objective)
-- [Guía](#guide)
-  - [Paso 1 - Fundamentos del los playbooks](#step-1---playbook-basics)
-  - [Paso 2 - Creación de una estructura de directorios y un archivo para su Playbook](#step-2---creating-a-directory-structure-and-file-for-your-playbook)
-  - [Paso 3 - Ejecución del Playbook](#step-3---running-the-playbook)
-  - [Paso 4 - Extiende tu Playbook: Iniciar &amp; Habilitar Apache](#step-4---extend-your-playbook-start--enable-apache)
-  - [Paso 5 - Extiende tu Playbook: Crear un web.html](#step-5---extend-your-playbook-create-an-indexhtml)
-  - [Paso 6 - Práctica: Aplicar a múltiples hosts](#step-6---practice-apply-to-multiple-host)
+- [Objetivos](#Objetivos)
+- [Guía](#Guía)
+  - [Paso 1 - Fundamentos del los playbooks](#Paso-1---Fundamentos-del-los-playbooks)
+  - [Paso 2 - Creación de una estructura de directorios y un archivo para su Playbook](#Paso-2---Creación-de-una-estructura-de-directorios-y-un-archivo-para-su-Playbook)
+  - [Paso 3 - Ejecución del Playbook](#Paso-3---Ejecución-del-Playbook)
+  - [Paso 4 - Extiende tu Playbook: Iniciar &amp; Habilitar Apache](#Paso-4---Extiende-tu-Playbook-Iniciar--Habilitar-Apache)
+  - [Paso 5 - Extiende tu Playbook: Crear un web.html](#Paso-5---Extiende-tu-Playbook-Crear-un-web.html)
+  - [Paso 6 - Práctica: Aplicar a múltiples hosts](#Paso-6---Práctica-Aplicar-a-múltiples-hosts)
 
 # Objetivos
 
